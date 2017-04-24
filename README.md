@@ -1,7 +1,8 @@
 # vrs2gpx
 Converts Virtual Radar Server format JSON file(s) to GPX for a given Icao Mode S ID
 ## Usage:
-  ```python vrs2gpx.py -q [icao] -p [path] -f [output filename]
+  ```
+  python vrs2gpx.py -q [icao] -p [path] -f [output filename]
   ```
 ## requirements: 
   [gpxpy](https://github.com/tkrajina/gpxpy)
