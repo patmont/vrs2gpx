@@ -1,0 +1,11 @@
+### DATA FILES ###
+*.json
+*.gpx
+
+
+### DIRECTORY ###
+.ipynb_checkpoints
+.idea
+
+### NOTEBOOKS ###
+*.ipynb
